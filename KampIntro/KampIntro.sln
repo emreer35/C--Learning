@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro.csproj", "{9FB5AA70-711D-740E-DE96-B53EF2FED852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Debug|x64.Build.0 = Debug|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Debug|x86.Build.0 = Debug|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Release|x64.ActiveCfg = Release|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Release|x64.Build.0 = Release|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Release|x86.ActiveCfg = Release|Any CPU
+		{9FB5AA70-711D-740E-DE96-B53EF2FED852}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {444FE3B3-8F06-4E40-B953-17E6B7BBB4B8}
+	EndGlobalSection
+EndGlobal

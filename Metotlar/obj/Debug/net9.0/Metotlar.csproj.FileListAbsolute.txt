@@ -1,0 +1,14 @@
+/Users/emreer/Desktop/C#/Metotlar/obj/Debug/net9.0/Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/Metotlar/obj/Debug/net9.0/Metotlar.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/Metotlar/obj/Debug/net9.0/Metotlar.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/Metotlar/obj/Debug/net9.0/Metotlar.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/Metotlar/bin/Debug/net9.0/Metotlar
+/Users/emreer/Desktop/C#/Metotlar/bin/Debug/net9.0/Metotlar.deps.json
+/Users/emreer/Desktop/C#/Metotlar/bin/Debug/net9.0/Metotlar.runtimeconfig.json
+/Users/emreer/Desktop/C#/Metotlar/bin/Debug/net9.0/Metotlar.dll
+/Users/emreer/Desktop/C#/Metotlar/bin/Debug/net9.0/Metotlar.pdb
+/Users/emreer/Desktop/C#/Metotlar/obj/Debug/net9.0/Metotlar.dll
+/Users/emreer/Desktop/C#/Metotlar/obj/Debug/net9.0/refint/Metotlar.dll
+/Users/emreer/Desktop/C#/Metotlar/obj/Debug/net9.0/Metotlar.pdb
+/Users/emreer/Desktop/C#/Metotlar/obj/Debug/net9.0/Metotlar.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/Metotlar/obj/Debug/net9.0/ref/Metotlar.dll

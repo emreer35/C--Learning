@@ -1,0 +1,14 @@
+/Users/emreer/Desktop/C#/Constructor/bin/Debug/net9.0/Constructor
+/Users/emreer/Desktop/C#/Constructor/bin/Debug/net9.0/Constructor.deps.json
+/Users/emreer/Desktop/C#/Constructor/bin/Debug/net9.0/Constructor.runtimeconfig.json
+/Users/emreer/Desktop/C#/Constructor/bin/Debug/net9.0/Constructor.dll
+/Users/emreer/Desktop/C#/Constructor/bin/Debug/net9.0/Constructor.pdb
+/Users/emreer/Desktop/C#/Constructor/obj/Debug/net9.0/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/Constructor/obj/Debug/net9.0/Constructor.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/Constructor/obj/Debug/net9.0/Constructor.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/Constructor/obj/Debug/net9.0/Constructor.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/Constructor/obj/Debug/net9.0/Constructor.dll
+/Users/emreer/Desktop/C#/Constructor/obj/Debug/net9.0/refint/Constructor.dll
+/Users/emreer/Desktop/C#/Constructor/obj/Debug/net9.0/Constructor.pdb
+/Users/emreer/Desktop/C#/Constructor/obj/Debug/net9.0/Constructor.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/Constructor/obj/Debug/net9.0/ref/Constructor.dll

@@ -1,0 +1,14 @@
+/Users/emreer/Desktop/C#/OOP1/bin/Debug/net9.0/OOP1
+/Users/emreer/Desktop/C#/OOP1/bin/Debug/net9.0/OOP1.deps.json
+/Users/emreer/Desktop/C#/OOP1/bin/Debug/net9.0/OOP1.runtimeconfig.json
+/Users/emreer/Desktop/C#/OOP1/bin/Debug/net9.0/OOP1.dll
+/Users/emreer/Desktop/C#/OOP1/bin/Debug/net9.0/OOP1.pdb
+/Users/emreer/Desktop/C#/OOP1/obj/Debug/net9.0/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/OOP1/obj/Debug/net9.0/OOP1.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/OOP1/obj/Debug/net9.0/OOP1.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/OOP1/obj/Debug/net9.0/OOP1.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/OOP1/obj/Debug/net9.0/OOP1.dll
+/Users/emreer/Desktop/C#/OOP1/obj/Debug/net9.0/refint/OOP1.dll
+/Users/emreer/Desktop/C#/OOP1/obj/Debug/net9.0/OOP1.pdb
+/Users/emreer/Desktop/C#/OOP1/obj/Debug/net9.0/OOP1.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/OOP1/obj/Debug/net9.0/ref/OOP1.dll

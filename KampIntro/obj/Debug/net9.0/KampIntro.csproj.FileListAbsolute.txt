@@ -1,0 +1,14 @@
+/Users/emreer/Desktop/C#/KampIntro/bin/Debug/net9.0/KampIntro
+/Users/emreer/Desktop/C#/KampIntro/bin/Debug/net9.0/KampIntro.deps.json
+/Users/emreer/Desktop/C#/KampIntro/bin/Debug/net9.0/KampIntro.runtimeconfig.json
+/Users/emreer/Desktop/C#/KampIntro/bin/Debug/net9.0/KampIntro.dll
+/Users/emreer/Desktop/C#/KampIntro/bin/Debug/net9.0/KampIntro.pdb
+/Users/emreer/Desktop/C#/KampIntro/obj/Debug/net9.0/KampIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/KampIntro/obj/Debug/net9.0/KampIntro.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/KampIntro/obj/Debug/net9.0/KampIntro.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/KampIntro/obj/Debug/net9.0/KampIntro.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/KampIntro/obj/Debug/net9.0/KampIntro.dll
+/Users/emreer/Desktop/C#/KampIntro/obj/Debug/net9.0/refint/KampIntro.dll
+/Users/emreer/Desktop/C#/KampIntro/obj/Debug/net9.0/KampIntro.pdb
+/Users/emreer/Desktop/C#/KampIntro/obj/Debug/net9.0/KampIntro.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/KampIntro/obj/Debug/net9.0/ref/KampIntro.dll

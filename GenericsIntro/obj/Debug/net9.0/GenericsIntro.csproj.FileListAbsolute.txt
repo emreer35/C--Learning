@@ -1,0 +1,14 @@
+/Users/emreer/Desktop/C#/GenericsIntro/bin/Debug/net9.0/GenericsIntro
+/Users/emreer/Desktop/C#/GenericsIntro/bin/Debug/net9.0/GenericsIntro.deps.json
+/Users/emreer/Desktop/C#/GenericsIntro/bin/Debug/net9.0/GenericsIntro.runtimeconfig.json
+/Users/emreer/Desktop/C#/GenericsIntro/bin/Debug/net9.0/GenericsIntro.dll
+/Users/emreer/Desktop/C#/GenericsIntro/bin/Debug/net9.0/GenericsIntro.pdb
+/Users/emreer/Desktop/C#/GenericsIntro/obj/Debug/net9.0/GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/GenericsIntro/obj/Debug/net9.0/GenericsIntro.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/GenericsIntro/obj/Debug/net9.0/GenericsIntro.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/GenericsIntro/obj/Debug/net9.0/GenericsIntro.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/GenericsIntro/obj/Debug/net9.0/GenericsIntro.dll
+/Users/emreer/Desktop/C#/GenericsIntro/obj/Debug/net9.0/refint/GenericsIntro.dll
+/Users/emreer/Desktop/C#/GenericsIntro/obj/Debug/net9.0/GenericsIntro.pdb
+/Users/emreer/Desktop/C#/GenericsIntro/obj/Debug/net9.0/GenericsIntro.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/GenericsIntro/obj/Debug/net9.0/ref/GenericsIntro.dll

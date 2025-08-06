@@ -1,0 +1,14 @@
+/Users/emreer/Desktop/C#/Matematik/bin/Debug/net9.0/Matematik
+/Users/emreer/Desktop/C#/Matematik/bin/Debug/net9.0/Matematik.deps.json
+/Users/emreer/Desktop/C#/Matematik/bin/Debug/net9.0/Matematik.runtimeconfig.json
+/Users/emreer/Desktop/C#/Matematik/bin/Debug/net9.0/Matematik.dll
+/Users/emreer/Desktop/C#/Matematik/bin/Debug/net9.0/Matematik.pdb
+/Users/emreer/Desktop/C#/Matematik/obj/Debug/net9.0/Matematik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/Matematik/obj/Debug/net9.0/Matematik.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/Matematik/obj/Debug/net9.0/Matematik.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/Matematik/obj/Debug/net9.0/Matematik.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/Matematik/obj/Debug/net9.0/Matematik.dll
+/Users/emreer/Desktop/C#/Matematik/obj/Debug/net9.0/refint/Matematik.dll
+/Users/emreer/Desktop/C#/Matematik/obj/Debug/net9.0/Matematik.pdb
+/Users/emreer/Desktop/C#/Matematik/obj/Debug/net9.0/Matematik.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/Matematik/obj/Debug/net9.0/ref/Matematik.dll

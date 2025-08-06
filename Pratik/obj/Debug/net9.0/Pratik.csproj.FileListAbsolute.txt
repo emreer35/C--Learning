@@ -1,0 +1,14 @@
+/Users/emreer/Desktop/C#/Pratik/bin/Debug/net9.0/Pratik
+/Users/emreer/Desktop/C#/Pratik/bin/Debug/net9.0/Pratik.deps.json
+/Users/emreer/Desktop/C#/Pratik/bin/Debug/net9.0/Pratik.runtimeconfig.json
+/Users/emreer/Desktop/C#/Pratik/bin/Debug/net9.0/Pratik.dll
+/Users/emreer/Desktop/C#/Pratik/bin/Debug/net9.0/Pratik.pdb
+/Users/emreer/Desktop/C#/Pratik/obj/Debug/net9.0/Pratik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/Pratik/obj/Debug/net9.0/Pratik.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/Pratik/obj/Debug/net9.0/Pratik.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/Pratik/obj/Debug/net9.0/Pratik.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/Pratik/obj/Debug/net9.0/Pratik.dll
+/Users/emreer/Desktop/C#/Pratik/obj/Debug/net9.0/refint/Pratik.dll
+/Users/emreer/Desktop/C#/Pratik/obj/Debug/net9.0/Pratik.pdb
+/Users/emreer/Desktop/C#/Pratik/obj/Debug/net9.0/Pratik.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/Pratik/obj/Debug/net9.0/ref/Pratik.dll

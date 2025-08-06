@@ -1,0 +1,14 @@
+/Users/emreer/Desktop/C#/RefveOut/bin/Debug/net9.0/RefveOut
+/Users/emreer/Desktop/C#/RefveOut/bin/Debug/net9.0/RefveOut.deps.json
+/Users/emreer/Desktop/C#/RefveOut/bin/Debug/net9.0/RefveOut.runtimeconfig.json
+/Users/emreer/Desktop/C#/RefveOut/bin/Debug/net9.0/RefveOut.dll
+/Users/emreer/Desktop/C#/RefveOut/bin/Debug/net9.0/RefveOut.pdb
+/Users/emreer/Desktop/C#/RefveOut/obj/Debug/net9.0/RefveOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/RefveOut/obj/Debug/net9.0/RefveOut.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/RefveOut/obj/Debug/net9.0/RefveOut.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/RefveOut/obj/Debug/net9.0/RefveOut.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/RefveOut/obj/Debug/net9.0/RefveOut.dll
+/Users/emreer/Desktop/C#/RefveOut/obj/Debug/net9.0/refint/RefveOut.dll
+/Users/emreer/Desktop/C#/RefveOut/obj/Debug/net9.0/RefveOut.pdb
+/Users/emreer/Desktop/C#/RefveOut/obj/Debug/net9.0/RefveOut.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/RefveOut/obj/Debug/net9.0/ref/RefveOut.dll
