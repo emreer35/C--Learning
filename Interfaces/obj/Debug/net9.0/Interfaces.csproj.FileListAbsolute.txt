@@ -1,0 +1,15 @@
+/Users/emreer/Desktop/C#/Interfaces/bin/Debug/net9.0/Interfaces
+/Users/emreer/Desktop/C#/Interfaces/bin/Debug/net9.0/Interfaces.deps.json
+/Users/emreer/Desktop/C#/Interfaces/bin/Debug/net9.0/Interfaces.runtimeconfig.json
+/Users/emreer/Desktop/C#/Interfaces/bin/Debug/net9.0/Interfaces.dll
+/Users/emreer/Desktop/C#/Interfaces/bin/Debug/net9.0/Interfaces.pdb
+/Users/emreer/Desktop/C#/Interfaces/obj/Debug/net9.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/Interfaces/obj/Debug/net9.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/Interfaces/obj/Debug/net9.0/Interfaces.sourcelink.json
+/Users/emreer/Desktop/C#/Interfaces/obj/Debug/net9.0/Interfaces.dll
+/Users/emreer/Desktop/C#/Interfaces/obj/Debug/net9.0/refint/Interfaces.dll
+/Users/emreer/Desktop/C#/Interfaces/obj/Debug/net9.0/Interfaces.pdb
+/Users/emreer/Desktop/C#/Interfaces/obj/Debug/net9.0/Interfaces.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/Interfaces/obj/Debug/net9.0/ref/Interfaces.dll
