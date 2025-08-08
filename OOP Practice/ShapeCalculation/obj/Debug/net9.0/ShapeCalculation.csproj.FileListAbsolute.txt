@@ -1,0 +1,15 @@
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/bin/Debug/net9.0/ShapeCalculation
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/bin/Debug/net9.0/ShapeCalculation.deps.json
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/bin/Debug/net9.0/ShapeCalculation.runtimeconfig.json
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/bin/Debug/net9.0/ShapeCalculation.dll
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/bin/Debug/net9.0/ShapeCalculation.pdb
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/obj/Debug/net9.0/ShapeCalculation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/obj/Debug/net9.0/ShapeCalculation.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/obj/Debug/net9.0/ShapeCalculation.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/obj/Debug/net9.0/ShapeCalculation.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/obj/Debug/net9.0/ShapeCalculation.sourcelink.json
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/obj/Debug/net9.0/ShapeCalculation.dll
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/obj/Debug/net9.0/refint/ShapeCalculation.dll
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/obj/Debug/net9.0/ShapeCalculation.pdb
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/obj/Debug/net9.0/ShapeCalculation.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/OOP Practice/ShapeCalculation/obj/Debug/net9.0/ref/ShapeCalculation.dll

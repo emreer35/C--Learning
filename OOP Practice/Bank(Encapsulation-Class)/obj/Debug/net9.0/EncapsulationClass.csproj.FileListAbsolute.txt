@@ -1,0 +1,15 @@
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/bin/Debug/net9.0/EncapsulationClass
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/bin/Debug/net9.0/EncapsulationClass.deps.json
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/bin/Debug/net9.0/EncapsulationClass.runtimeconfig.json
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/bin/Debug/net9.0/EncapsulationClass.dll
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/bin/Debug/net9.0/EncapsulationClass.pdb
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/obj/Debug/net9.0/EncapsulationClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/obj/Debug/net9.0/EncapsulationClass.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/obj/Debug/net9.0/EncapsulationClass.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/obj/Debug/net9.0/EncapsulationClass.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/obj/Debug/net9.0/EncapsulationClass.sourcelink.json
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/obj/Debug/net9.0/EncapsulationClass.dll
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/obj/Debug/net9.0/refint/EncapsulationClass.dll
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/obj/Debug/net9.0/EncapsulationClass.pdb
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/obj/Debug/net9.0/EncapsulationClass.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/OOP Practice/EncapsulationClass/obj/Debug/net9.0/ref/EncapsulationClass.dll

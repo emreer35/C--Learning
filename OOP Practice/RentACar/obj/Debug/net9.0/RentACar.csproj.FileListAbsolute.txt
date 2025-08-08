@@ -1,0 +1,15 @@
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/bin/Debug/net9.0/RentACar
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/bin/Debug/net9.0/RentACar.deps.json
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/bin/Debug/net9.0/RentACar.runtimeconfig.json
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/bin/Debug/net9.0/RentACar.dll
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/bin/Debug/net9.0/RentACar.pdb
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/obj/Debug/net9.0/RentACar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/obj/Debug/net9.0/RentACar.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/obj/Debug/net9.0/RentACar.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/obj/Debug/net9.0/RentACar.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/obj/Debug/net9.0/RentACar.sourcelink.json
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/obj/Debug/net9.0/RentACar.dll
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/obj/Debug/net9.0/refint/RentACar.dll
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/obj/Debug/net9.0/RentACar.pdb
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/obj/Debug/net9.0/RentACar.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/OOP Practice/RentACar/obj/Debug/net9.0/ref/RentACar.dll

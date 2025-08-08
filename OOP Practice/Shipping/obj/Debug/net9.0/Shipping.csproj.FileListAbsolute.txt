@@ -1,0 +1,15 @@
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/bin/Debug/net9.0/Shipping
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/bin/Debug/net9.0/Shipping.deps.json
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/bin/Debug/net9.0/Shipping.runtimeconfig.json
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/bin/Debug/net9.0/Shipping.dll
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/bin/Debug/net9.0/Shipping.pdb
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/obj/Debug/net9.0/Shipping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/obj/Debug/net9.0/Shipping.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/obj/Debug/net9.0/Shipping.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/obj/Debug/net9.0/Shipping.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/obj/Debug/net9.0/Shipping.sourcelink.json
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/obj/Debug/net9.0/Shipping.dll
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/obj/Debug/net9.0/refint/Shipping.dll
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/obj/Debug/net9.0/Shipping.pdb
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/obj/Debug/net9.0/Shipping.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/OOP Practice/Shipping/obj/Debug/net9.0/ref/Shipping.dll
