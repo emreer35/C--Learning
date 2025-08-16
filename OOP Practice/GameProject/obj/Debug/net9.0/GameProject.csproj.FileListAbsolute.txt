@@ -1,0 +1,15 @@
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/bin/Debug/net9.0/GameProject
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/bin/Debug/net9.0/GameProject.deps.json
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/bin/Debug/net9.0/GameProject.runtimeconfig.json
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/bin/Debug/net9.0/GameProject.dll
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/bin/Debug/net9.0/GameProject.pdb
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/obj/Debug/net9.0/GameProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/obj/Debug/net9.0/GameProject.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/obj/Debug/net9.0/GameProject.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/obj/Debug/net9.0/GameProject.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/obj/Debug/net9.0/GameProject.sourcelink.json
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/obj/Debug/net9.0/GameProject.dll
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/obj/Debug/net9.0/refint/GameProject.dll
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/obj/Debug/net9.0/GameProject.pdb
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/obj/Debug/net9.0/GameProject.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/OOP Practice/GameProject/obj/Debug/net9.0/ref/GameProject.dll

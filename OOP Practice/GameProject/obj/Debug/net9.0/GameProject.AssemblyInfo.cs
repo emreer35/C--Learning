@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("OOP3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GameProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ca34c3f0c31129483f3cde1367a594d4125bd1a")]
-[assembly: System.Reflection.AssemblyProductAttribute("OOP3")]
-[assembly: System.Reflection.AssemblyTitleAttribute("OOP3")]
+[assembly: System.Reflection.AssemblyProductAttribute("GameProject")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GameProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
