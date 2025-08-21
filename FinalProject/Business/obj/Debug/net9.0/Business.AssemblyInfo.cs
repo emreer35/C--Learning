@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("KampIntro")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e5fd1364408cf0d26c27ba32ff028b5362cf9d7")]
-[assembly: System.Reflection.AssemblyProductAttribute("KampIntro")]
-[assembly: System.Reflection.AssemblyTitleAttribute("KampIntro")]
+[assembly: System.Reflection.AssemblyProductAttribute("Business")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

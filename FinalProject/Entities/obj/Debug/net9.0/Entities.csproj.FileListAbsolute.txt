@@ -1,0 +1,12 @@
+/Users/emreer/Desktop/C#/FinalProject/Entities/bin/Debug/net9.0/Entities.deps.json
+/Users/emreer/Desktop/C#/FinalProject/Entities/bin/Debug/net9.0/Entities.dll
+/Users/emreer/Desktop/C#/FinalProject/Entities/bin/Debug/net9.0/Entities.pdb
+/Users/emreer/Desktop/C#/FinalProject/Entities/obj/Debug/net9.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/FinalProject/Entities/obj/Debug/net9.0/Entities.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/FinalProject/Entities/obj/Debug/net9.0/Entities.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/FinalProject/Entities/obj/Debug/net9.0/Entities.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/FinalProject/Entities/obj/Debug/net9.0/Entities.sourcelink.json
+/Users/emreer/Desktop/C#/FinalProject/Entities/obj/Debug/net9.0/Entities.dll
+/Users/emreer/Desktop/C#/FinalProject/Entities/obj/Debug/net9.0/refint/Entities.dll
+/Users/emreer/Desktop/C#/FinalProject/Entities/obj/Debug/net9.0/Entities.pdb
+/Users/emreer/Desktop/C#/FinalProject/Entities/obj/Debug/net9.0/ref/Entities.dll
