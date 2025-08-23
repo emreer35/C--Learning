@@ -3,6 +3,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 
 namespace DataAccess.Concrete.InMemory;
 // inmemory icinde product data access layer
@@ -62,6 +63,11 @@ public class InMemoryProductDal : IProductDal
     public List<Product> GetAllByCategoryId(int categoryId)
     {
         return _products.Where(p => p.CategoryId == categoryId).ToList();
+    }
+
+    public List<ProductDetailDto> GetProductDetails()
+    {
+        throw new NotImplementedException();
     }
 
     public void Update(Product product)

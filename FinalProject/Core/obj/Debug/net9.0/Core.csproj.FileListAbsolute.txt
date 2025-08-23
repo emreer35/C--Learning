@@ -1,0 +1,13 @@
+/Users/emreer/Desktop/C#/FinalProject/Core/bin/Debug/net9.0/Core.deps.json
+/Users/emreer/Desktop/C#/FinalProject/Core/bin/Debug/net9.0/Core.dll
+/Users/emreer/Desktop/C#/FinalProject/Core/bin/Debug/net9.0/Core.pdb
+/Users/emreer/Desktop/C#/FinalProject/Core/obj/Debug/net9.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/FinalProject/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/FinalProject/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/FinalProject/Core/obj/Debug/net9.0/Core.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/FinalProject/Core/obj/Debug/net9.0/Core.sourcelink.json
+/Users/emreer/Desktop/C#/FinalProject/Core/obj/Debug/net9.0/Core.dll
+/Users/emreer/Desktop/C#/FinalProject/Core/obj/Debug/net9.0/refint/Core.dll
+/Users/emreer/Desktop/C#/FinalProject/Core/obj/Debug/net9.0/Core.pdb
+/Users/emreer/Desktop/C#/FinalProject/Core/obj/Debug/net9.0/ref/Core.dll
+/Users/emreer/Desktop/C#/FinalProject/Core/obj/Debug/net9.0/Core.csproj.AssemblyReference.cache

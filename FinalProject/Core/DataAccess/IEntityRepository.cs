@@ -1,8 +1,12 @@
 using System;
 using System.Linq.Expressions;
-using Entities.Abstract;
+using Core.Entities;
 
-namespace DataAccess.Abstract;
+namespace Core.DataAccess;
+// namespace leri degistridik
+// artik core katmanimiz bizim diger projelere bagimli degil 
+// diger projeler core katmanina bagimli hale geliyor 
+// ve arti kbirden fazla projeyi de core katmaninda yapabilirz
 
 // generic constraints generik kisitlamalar 
 // class : referance type

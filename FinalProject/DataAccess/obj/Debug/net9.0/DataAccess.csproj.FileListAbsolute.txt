@@ -14,3 +14,5 @@
 /Users/emreer/Desktop/C#/FinalProject/DataAccess/obj/Debug/net9.0/refint/DataAccess.dll
 /Users/emreer/Desktop/C#/FinalProject/DataAccess/obj/Debug/net9.0/DataAccess.pdb
 /Users/emreer/Desktop/C#/FinalProject/DataAccess/obj/Debug/net9.0/ref/DataAccess.dll
+/Users/emreer/Desktop/C#/FinalProject/DataAccess/bin/Debug/net9.0/Core.dll
+/Users/emreer/Desktop/C#/FinalProject/DataAccess/bin/Debug/net9.0/Core.pdb
