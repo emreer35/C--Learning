@@ -40,6 +40,8 @@ public class EfProductDal : EfEntityRepositoryBase<Product, NorthwindContext>, I
                     UnitsInStock = p.UnitsInStock
                 }).ToList();
             return result;
+
+            
         }
     }
 }
