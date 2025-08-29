@@ -18,10 +18,18 @@ static void ProductTest()
     // {
     //     System.Console.WriteLine(product.ProductName);
     // }
-
-    foreach (var product in productManager.GetProductDetails())
+    var result = productManager.GetProductDetails();
+    if (result.Success)
     {
-        System.Console.WriteLine(product.ProductName + " / " + product.CategoryName);
+
+        foreach (var product in result.Data)
+        {
+            System.Console.WriteLine(product.ProductName + " / " + product.CategoryName);
+        }
+    }
+    else
+    {
+        System.Console.WriteLine(result.Message);
     }
 }
 

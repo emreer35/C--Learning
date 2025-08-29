@@ -9,4 +9,6 @@ public static class Messages
     // tek tek degistirmeyelim tek bir yerden degistirelim diye yaptigimiz uygulama
     public static string ProdutAdded = "Urun Eklendi";
     public static string ProductNameInvalid = "Urun ismi gecersizdir";
+    public static string ProductListed = "Urunler basariyla listelendi";
+    public static string MaintenanceTime = "Sunucu suan da bakimda";
 }

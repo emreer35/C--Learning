@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProject", "..\FinalPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{112285FA-408D-40B9-BB41-274321444AC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{4CBABC93-F20F-40A9-ACEB-02829ADFE390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONet", "ADONet\ADONet.csproj", "{BE473274-5CF2-46DF-A930-78B1B2761680}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +59,30 @@ Global
 		{112285FA-408D-40B9-BB41-274321444AC6}.Release|x64.Build.0 = Release|Any CPU
 		{112285FA-408D-40B9-BB41-274321444AC6}.Release|x86.ActiveCfg = Release|Any CPU
 		{112285FA-408D-40B9-BB41-274321444AC6}.Release|x86.Build.0 = Release|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Debug|x64.Build.0 = Debug|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Debug|x86.Build.0 = Debug|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Release|x64.ActiveCfg = Release|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Release|x64.Build.0 = Release|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Release|x86.ActiveCfg = Release|Any CPU
+		{4CBABC93-F20F-40A9-ACEB-02829ADFE390}.Release|x86.Build.0 = Release|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Debug|x64.Build.0 = Debug|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Debug|x86.Build.0 = Debug|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Release|x64.ActiveCfg = Release|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Release|x64.Build.0 = Release|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Release|x86.ActiveCfg = Release|Any CPU
+		{BE473274-5CF2-46DF-A930-78B1B2761680}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

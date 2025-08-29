@@ -1,0 +1,15 @@
+/Users/emreer/Desktop/C#/KampIntro/Exception/bin/Debug/net9.0/Exception
+/Users/emreer/Desktop/C#/KampIntro/Exception/bin/Debug/net9.0/Exception.deps.json
+/Users/emreer/Desktop/C#/KampIntro/Exception/bin/Debug/net9.0/Exception.runtimeconfig.json
+/Users/emreer/Desktop/C#/KampIntro/Exception/bin/Debug/net9.0/Exception.dll
+/Users/emreer/Desktop/C#/KampIntro/Exception/bin/Debug/net9.0/Exception.pdb
+/Users/emreer/Desktop/C#/KampIntro/Exception/obj/Debug/net9.0/Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/KampIntro/Exception/obj/Debug/net9.0/Exception.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/KampIntro/Exception/obj/Debug/net9.0/Exception.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/KampIntro/Exception/obj/Debug/net9.0/Exception.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/KampIntro/Exception/obj/Debug/net9.0/Exception.sourcelink.json
+/Users/emreer/Desktop/C#/KampIntro/Exception/obj/Debug/net9.0/Exception.dll
+/Users/emreer/Desktop/C#/KampIntro/Exception/obj/Debug/net9.0/refint/Exception.dll
+/Users/emreer/Desktop/C#/KampIntro/Exception/obj/Debug/net9.0/Exception.pdb
+/Users/emreer/Desktop/C#/KampIntro/Exception/obj/Debug/net9.0/Exception.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/KampIntro/Exception/obj/Debug/net9.0/ref/Exception.dll
