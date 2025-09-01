@@ -33,7 +33,7 @@ public class ProductManager : IProductService
     {
         // is kodlari 
         // yetki kotrolu 
-        if (DateTime.Now.Hour == 22)
+        if (DateTime.Now.Hour == 0)
         {
             return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
         }
