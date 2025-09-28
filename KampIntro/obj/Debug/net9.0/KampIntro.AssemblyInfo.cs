@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KampIntro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52af7b204ff682d086d66e31388c17e1bd97e04d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d4253824c56155a4ee20ea538434b651c0d0776")]
 [assembly: System.Reflection.AssemblyProductAttribute("KampIntro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KampIntro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

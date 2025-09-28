@@ -34,6 +34,7 @@ namespace WebAPI.Controllers
             }
             return BadRequest(result);
             // c# IActionResult return responslarini ogren 
+                    // routing arastir
         }
         [HttpGet("getbyid")]
         public IActionResult GetById(int id)

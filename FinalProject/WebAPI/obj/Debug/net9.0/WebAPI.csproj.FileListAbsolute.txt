@@ -89,3 +89,8 @@
 /Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/Core.pdb
 /Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/DataAccess.pdb
 /Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/Entities.pdb
+/Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/Autofac.dll
+/Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/Autofac.Extensions.DependencyInjection.dll
+/Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/Autofac.Extras.DynamicProxy.dll
+/Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/Castle.Core.dll
+/Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/FluentValidation.dll

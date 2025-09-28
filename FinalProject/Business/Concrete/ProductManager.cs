@@ -1,11 +1,15 @@
 using System;
 using Business.Abstract;
 using Business.Constans;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
+using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results.Abstract;
 using Core.Utilities.Results.Concrete;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
+using FluentValidation;
 
 namespace Business.Concrete;
 
@@ -18,13 +22,29 @@ public class ProductManager : IProductService
         _productDal = productDal;
     }
 
+    [ValidationAspect(typeof(ProductValidator))]
     public IResult Add(Product product)
     {
         // is kodlari
-        if (product.ProductName.Length < 2)
-        {
-            return new ErrorResult(Messages.ProductNameInvalid);
-        }
+        // validation
+        // validation ile business kodlarini karistirma 
+        // if (product.ProductName.Length < 2)
+        // {
+        //     return new ErrorResult(Messages.ProductNameInvalid);
+        // }
+        // yukaridaki kodlari zaten validation da verdik
+
+
+        // var context = new ValidationContext<Product>(product);
+        // ProductValidator productValidator = new ProductValidator();
+        // var result = productValidator.Validate(context);
+        // if (!result.IsValid)
+        // {
+        // throw new ValidationException(result.Errors);    
+        // }
+        // yukaridaki kodu direkt heryerde kullabilelim diye asagida ekledik 
+        // CCC ( Cross Cutting Concerns)
+        // ValidationTool.Validate(new ProductValidator(), product);
         _productDal.Add(product);
         return new SuccessResult(Messages.ProdutAdded);
     }

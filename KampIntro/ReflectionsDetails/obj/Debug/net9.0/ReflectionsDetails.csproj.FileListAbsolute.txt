@@ -1,0 +1,15 @@
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/bin/Debug/net9.0/ReflectionsDetails
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/bin/Debug/net9.0/ReflectionsDetails.deps.json
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/bin/Debug/net9.0/ReflectionsDetails.runtimeconfig.json
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/bin/Debug/net9.0/ReflectionsDetails.dll
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/bin/Debug/net9.0/ReflectionsDetails.pdb
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/obj/Debug/net9.0/ReflectionsDetails.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/obj/Debug/net9.0/ReflectionsDetails.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/obj/Debug/net9.0/ReflectionsDetails.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/obj/Debug/net9.0/ReflectionsDetails.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/obj/Debug/net9.0/ReflectionsDetails.sourcelink.json
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/obj/Debug/net9.0/ReflectionsDetails.dll
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/obj/Debug/net9.0/refint/ReflectionsDetails.dll
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/obj/Debug/net9.0/ReflectionsDetails.pdb
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/obj/Debug/net9.0/ReflectionsDetails.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/KampIntro/ReflectionsDetails/obj/Debug/net9.0/ref/ReflectionsDetails.dll

@@ -1,0 +1,15 @@
+/Users/emreer/Desktop/C#/KampIntro/Attributes/bin/Debug/net9.0/Attributes
+/Users/emreer/Desktop/C#/KampIntro/Attributes/bin/Debug/net9.0/Attributes.deps.json
+/Users/emreer/Desktop/C#/KampIntro/Attributes/bin/Debug/net9.0/Attributes.runtimeconfig.json
+/Users/emreer/Desktop/C#/KampIntro/Attributes/bin/Debug/net9.0/Attributes.dll
+/Users/emreer/Desktop/C#/KampIntro/Attributes/bin/Debug/net9.0/Attributes.pdb
+/Users/emreer/Desktop/C#/KampIntro/Attributes/obj/Debug/net9.0/Attributes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreer/Desktop/C#/KampIntro/Attributes/obj/Debug/net9.0/Attributes.AssemblyInfoInputs.cache
+/Users/emreer/Desktop/C#/KampIntro/Attributes/obj/Debug/net9.0/Attributes.AssemblyInfo.cs
+/Users/emreer/Desktop/C#/KampIntro/Attributes/obj/Debug/net9.0/Attributes.csproj.CoreCompileInputs.cache
+/Users/emreer/Desktop/C#/KampIntro/Attributes/obj/Debug/net9.0/Attributes.sourcelink.json
+/Users/emreer/Desktop/C#/KampIntro/Attributes/obj/Debug/net9.0/Attributes.dll
+/Users/emreer/Desktop/C#/KampIntro/Attributes/obj/Debug/net9.0/refint/Attributes.dll
+/Users/emreer/Desktop/C#/KampIntro/Attributes/obj/Debug/net9.0/Attributes.pdb
+/Users/emreer/Desktop/C#/KampIntro/Attributes/obj/Debug/net9.0/Attributes.genruntimeconfig.cache
+/Users/emreer/Desktop/C#/KampIntro/Attributes/obj/Debug/net9.0/ref/Attributes.dll

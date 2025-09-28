@@ -2,8 +2,17 @@ using Business.Abstract;
 using Business.Concrete;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
+using Autofac;
+using Business.DependencyResolvers.Autofac;
+using Autofac.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+builder.Host.ConfigureContainer<ContainerBuilder>(container =>
+{
+    container.RegisterModule(new AutofacBusinessModule());
+});
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -14,8 +23,8 @@ builder.Services.AddControllers();
 // Autofact, Ninject, CastleWindsor, StructureMap, LightInject, Dryinject -> IoC container gorevi yapiyordu build ediyordu  
 // AOP kullanacagiz ileri ki zamanlarda kod karmasikligi olmasin sunu yaptim mi olmasin diye
 // Autofact bunu gayet guzel karisliyor 
-builder.Services.AddSingleton<IProductService,ProductManager>(); // sen burada bir service gorursen o service somut nesneyi referance olarak tut, arka planda tutar
-builder.Services.AddSingleton<IProductDal, EfProductDal>();
+// builder.Services.AddSingleton<IProductService,ProductManager>(); // sen burada bir service gorursen o service somut nesneyi referance olarak tut, arka planda tutar
+// builder.Services.AddSingleton<IProductDal, EfProductDal>();
 // addScoped 
 // addTransiet
 var app = builder.Build();
@@ -28,28 +37,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
 
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast");
 app.MapControllers();
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
