@@ -3,6 +3,7 @@
 
 
 using Business.Concrete;
+using Core.Utilities.Results.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
 
@@ -12,7 +13,7 @@ ProductTest();
 
 static void ProductTest()
 {
-    ProductManager productManager = new ProductManager(new EfProductDal());
+    ProductManager productManager = new ProductManager(new EfProductDal(),new CategoryManager(new EfCategoryDal()));
 
     // foreach (var product in productManager.GetAll())
     // {
@@ -36,7 +37,7 @@ static void ProductTest()
 static void CategoryTest()
 {
     CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
-    foreach (var category in categoryManager.GetAll())
+    foreach (var category in categoryManager.GetAll().Data)
     {
         System.Console.WriteLine(category.CategoryName);
     }

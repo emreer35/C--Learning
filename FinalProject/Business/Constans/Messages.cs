@@ -11,4 +11,7 @@ public static class Messages
     public static string ProductNameInvalid = "Urun ismi gecersizdir";
     public static string ProductListed = "Urunler basariyla listelendi";
     public static string MaintenanceTime = "Sunucu suan da bakimda";
+    public static string ProductCountError = "Kategoride en fazla 10 urun bulunabilir";
+    public static string ProductNameExist = "Bu Urun ismi mevcut";
+    public static string CategoryLimitExceded = "Kategori Sayisi fazla oldugundan urun eklenemez";
 }

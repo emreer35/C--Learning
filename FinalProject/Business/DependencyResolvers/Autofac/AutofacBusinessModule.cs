@@ -2,6 +2,7 @@ using System;
 using Autofac;
 using Autofac.Extras.DynamicProxy;
 using Business.Abstract;
+using Business.CCS;
 using Business.Concrete;
 using Castle.DynamicProxy;
 using Core.Utilities.Interceptors;
@@ -16,6 +17,9 @@ public class AutofacBusinessModule : Module
     {
         builder.RegisterType<ProductManager>().As<IProductService>().InstancePerLifetimeScope();
         builder.RegisterType<EfProductDal>().As<IProductDal>().InstancePerLifetimeScope();
+
+        builder.RegisterType<CategoryManager>().As<ICategoryService>().InstancePerLifetimeScope();
+        builder.RegisterType<EfCategoryDal>().As<ICategoryDal>().InstancePerLifetimeScope();
 
 
         var assembly = System.Reflection.Assembly.GetExecutingAssembly();
