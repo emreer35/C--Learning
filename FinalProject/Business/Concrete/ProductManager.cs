@@ -26,7 +26,8 @@ public class ProductManager : IProductService
         _productDal = productDal;
         _categoryService = categoryService;
     }
-
+    // claim (iddia etmek)
+    // [SecuredOperation]
     [ValidationAspect(typeof(ProductValidator))]
     public IResult Add(Product product)
     {
