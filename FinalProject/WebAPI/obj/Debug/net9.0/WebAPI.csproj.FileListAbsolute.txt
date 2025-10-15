@@ -94,3 +94,5 @@
 /Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/Autofac.Extras.DynamicProxy.dll
 /Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/Castle.Core.dll
 /Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/FluentValidation.dll
+/Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/emreer/Desktop/C#/FinalProject/WebAPI/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll

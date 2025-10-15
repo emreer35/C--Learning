@@ -1,5 +1,6 @@
 using System;
 using Business.Abstract;
+using Business.BusinessAspects.Autofac;
 using Business.CCS;
 using Business.Constans;
 using Business.ValidationRules.FluentValidation;
@@ -27,7 +28,7 @@ public class ProductManager : IProductService
         _categoryService = categoryService;
     }
     // claim (iddia etmek)
-    // [SecuredOperation]
+    [SecuredOperation("products.add, admin")]
     [ValidationAspect(typeof(ProductValidator))]
     public IResult Add(Product product)
     {

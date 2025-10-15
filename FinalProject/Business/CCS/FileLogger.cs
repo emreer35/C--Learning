@@ -1,4 +1,5 @@
 using System;
+using Core.Utilities.Security.JWT;
 
 namespace Business.CCS;
 
@@ -8,4 +9,6 @@ public class FileLogger : ILogger
     {
         System.Console.WriteLine("Dosyaya basarili bir sekilde loglandi");
     }
+
 }
+
